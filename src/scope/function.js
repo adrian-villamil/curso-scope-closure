@@ -8,4 +8,3 @@ function greeting() {
 }
 
 greeting();
-console.log(userName);
